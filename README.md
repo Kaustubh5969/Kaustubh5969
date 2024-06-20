@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Ugale</h1>
 <h3 align="center">A Web-Developer from Pune, Maharashtra.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ugalekaustubh.netlify.app/](https://ugalekaustubh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ugalekaustubh.netlify.app/](https://akshayugale.netlify.app/)
 
 - 💬 Ask me about **React, HTML, CSS, JS, Bootstrap**
 
